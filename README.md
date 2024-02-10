@@ -1,0 +1,1 @@
+This repository contains the code and resources for performing Exploratory Data Analysis (EDA) on cuisine data extracted from a CSV file. The dataset includes information about various cuisines, their ingredients, and other relevant attributes.
