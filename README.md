@@ -41,6 +41,10 @@ Usage
 ===
 Explore the Notebook EDA_Analysis.py to analyze the cuisine data. The notebook contains code for data cleaning, data visualization, and statistical analysis of the dataset.
 
+Conclusion
+=====
+In conclusion, this EDA on the simple cuisine dataset aims to provide a comprehensive understanding of the data and its underlying patterns. By examining the distribution, missing values, and correlations, we can gain valuable insights into the cuisine domain.
+
 Contributions
 ===
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
