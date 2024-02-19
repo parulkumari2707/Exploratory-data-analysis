@@ -25,20 +25,14 @@ To run the EDA code, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/cuisine-data-eda.git
+gh repo clone parulkumari2707/Exploratory-data-analysis
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd cuisine-data-eda
+cd Exploratory-data-analysis
 ```
-
-3. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the Jupyter Notebook for exploratory data analysis:
+3. Run the Jupyter Notebook for exploratory data analysis:
 ```bash
 jupyter notebook EDA_Analysis.py
 ```
